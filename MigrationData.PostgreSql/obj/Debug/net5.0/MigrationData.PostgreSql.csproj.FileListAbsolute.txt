@@ -1,0 +1,16 @@
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\bin\Debug\net5.0\MigrationData.PostgreSql.deps.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\bin\Debug\net5.0\MigrationData.PostgreSql.runtimeconfig.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\bin\Debug\net5.0\MigrationData.PostgreSql.runtimeconfig.dev.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\bin\Debug\net5.0\MigrationData.PostgreSql.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\bin\Debug\net5.0\ref\MigrationData.PostgreSql.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\bin\Debug\net5.0\MigrationData.PostgreSql.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\obj\Debug\net5.0\MigrationData.PostgreSql.csproj.AssemblyReference.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\obj\Debug\net5.0\MigrationData.PostgreSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\obj\Debug\net5.0\MigrationData.PostgreSql.AssemblyInfoInputs.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\obj\Debug\net5.0\MigrationData.PostgreSql.AssemblyInfo.cs
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\obj\Debug\net5.0\MigrationData.PostgreSql.csproj.CoreCompileInputs.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\obj\Debug\net5.0\EFCoreNpgsqlNetTopologySuite.cs
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\obj\Debug\net5.0\MigrationData.PostgreSql.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\obj\Debug\net5.0\ref\MigrationData.PostgreSql.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\obj\Debug\net5.0\MigrationData.PostgreSql.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.PostgreSql\obj\Debug\net5.0\MigrationData.PostgreSql.genruntimeconfig.cache
