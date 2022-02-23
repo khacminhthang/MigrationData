@@ -2,17 +2,19 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace MigrationData.Application
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            GetTApp();
+            await GetTApp();
+            await GetTAction();
         }
 
-        public static void GetTApp()
+        public static async Task GetTApp()
         {
             List<MigrationData.PostgreSql.Domain.Models.TApp> data = new List<TApp>();
             using (var db = new MigrationData.PostgreSql.Domain.Models.DatabaseContext())
@@ -48,7 +50,7 @@ namespace MigrationData.Application
             //}
         }
 
-        public static void GetTAction()
+        public static async Task GetTAction()
         {
             List<MigrationData.PostgreSql.Domain.Models.TAction> data = new List<TAction>();
             using (var db = new MigrationData.PostgreSql.Domain.Models.DatabaseContext())

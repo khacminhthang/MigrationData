@@ -1,0 +1,15 @@
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\bin\Debug\net5.0\MigrationData.Oracle.deps.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\bin\Debug\net5.0\MigrationData.Oracle.runtimeconfig.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\bin\Debug\net5.0\MigrationData.Oracle.runtimeconfig.dev.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\bin\Debug\net5.0\MigrationData.Oracle.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\bin\Debug\net5.0\ref\MigrationData.Oracle.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\bin\Debug\net5.0\MigrationData.Oracle.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\obj\Debug\net5.0\MigrationData.Oracle.csproj.AssemblyReference.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\obj\Debug\net5.0\MigrationData.Oracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\obj\Debug\net5.0\MigrationData.Oracle.AssemblyInfoInputs.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\obj\Debug\net5.0\MigrationData.Oracle.AssemblyInfo.cs
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\obj\Debug\net5.0\MigrationData.Oracle.csproj.CoreCompileInputs.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\obj\Debug\net5.0\MigrationData.Oracle.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\obj\Debug\net5.0\ref\MigrationData.Oracle.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\obj\Debug\net5.0\MigrationData.Oracle.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Oracle\obj\Debug\net5.0\MigrationData.Oracle.genruntimeconfig.cache
