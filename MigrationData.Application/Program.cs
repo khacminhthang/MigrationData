@@ -25,9 +25,10 @@ namespace MigrationData.Application
             //GetTUserAdminApp();
             //GetTUserAdminScope();
             //GetTUserGroup();
-            GetTUserGroupActionGroup();
+            //GetTUserGroupActionGroup();
             //GetTUserGroupScope();
             //GetTUserUserGroup();
+            //GetTPrefixUrl();
         }
 
         // T_CUSTOMER
@@ -766,6 +767,45 @@ namespace MigrationData.Application
                 }
                 db2.AddRange(list);
                 db2.SaveChanges();
+            }
+        }
+
+        public static void GetTPrefixUrl()
+        {
+            List<MigrationData.PostgreSql.Domain.Models.TPrefixUrl> data = new List<MigrationData.PostgreSql.Domain.Models.TPrefixUrl>();
+            List<MigrationData.Oracle.Domain.Models.TPrefixUrl> data2 = new List<MigrationData.Oracle.Domain.Models.TPrefixUrl>();
+            using (var db = new MigrationData.PostgreSql.Domain.Models.DatabaseContext())
+            {
+                data = db.TPrefixUrls.ToList();
+            }
+
+            var list = new List<MigrationData.Oracle.Domain.Models.TPrefixUrl>();
+            using (var db2 = new MigrationData.Oracle.Domain.Models.DatabaseContext())
+            {
+                data2 = db2.TPrefixUrls.ToList();
+
+                var count = 0;
+                foreach (var item in data)
+                {
+                    var temp = data2.FirstOrDefault(x => x.PrefixUrlId == item.PrefixUrlId);
+                    if (temp == null)
+                    {
+                        count++;
+                        var model = new MigrationData.Oracle.Domain.Models.TPrefixUrl
+                        {
+                            PrefixUrlId = item.PrefixUrlId,
+                            PrefixUrl = item.PrefixUrl,
+                            ModuleId = item.ModuleId,
+                            UpdatedAt = DateTime.Now,
+                            CreatedBy = item.CreatedBy
+                        };
+                        list.Add(model);
+                        Console.WriteLine(count);
+                    }
+                }
+                db2.AddRange(list);
+                db2.SaveChanges();
+                Console.WriteLine("Done");
             }
         }
     }
