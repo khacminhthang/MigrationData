@@ -699,6 +699,40 @@
           }
         }
       },
+      "MigrationData.Oracle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.14",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.14",
+          "Newtonsoft.Json": "13.0.1",
+          "Oracle.EntityFrameworkCore": "5.21.5",
+          "System.Data.SqlClient": "4.8.3"
+        },
+        "compile": {
+          "bin/placeholder/MigrationData.Oracle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MigrationData.Oracle.dll": {}
+        }
+      },
+      "MigrationData.OracleSSO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.14",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.14",
+          "Newtonsoft.Json": "13.0.1",
+          "Oracle.EntityFrameworkCore": "5.21.5",
+          "System.Data.SqlClient": "4.8.3"
+        },
+        "compile": {
+          "bin/placeholder/MigrationData.OracleSSO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MigrationData.OracleSSO.dll": {}
+        }
+      },
       "MigrationData.PostgreSql/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -2032,6 +2066,16 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "MigrationData.Oracle/1.0.0": {
+      "type": "project",
+      "path": "../MigrationData.Oracle/MigrationData.Oracle.csproj",
+      "msbuildProject": "../MigrationData.Oracle/MigrationData.Oracle.csproj"
+    },
+    "MigrationData.OracleSSO/1.0.0": {
+      "type": "project",
+      "path": "../MigrationData.OracleSSO/MigrationData.OracleSSO.csproj",
+      "msbuildProject": "../MigrationData.OracleSSO/MigrationData.OracleSSO.csproj"
+    },
     "MigrationData.PostgreSql/1.0.0": {
       "type": "project",
       "path": "../MigrationData.PostgreSql/MigrationData.PostgreSql.csproj",
@@ -2043,6 +2087,8 @@
       "Microsoft.EntityFrameworkCore >= 5.0.14",
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.14",
+      "MigrationData.Oracle >= 1.0.0",
+      "MigrationData.OracleSSO >= 1.0.0",
       "MigrationData.PostgreSql >= 1.0.0",
       "Newtonsoft.Json >= 13.0.1",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 5.0.10",
@@ -2078,6 +2124,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\MigrationData\\MigrationData.OracleSSO\\MigrationData.OracleSSO.csproj": {
+              "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\MigrationData\\MigrationData.OracleSSO\\MigrationData.OracleSSO.csproj"
+            },
+            "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\MigrationData\\MigrationData.Oracle\\MigrationData.Oracle.csproj": {
+              "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\MigrationData\\MigrationData.Oracle\\MigrationData.Oracle.csproj"
+            },
             "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\MigrationData\\MigrationData.PostgreSql\\MigrationData.PostgreSql.csproj": {
               "projectPath": "C:\\Users\\KHOIDONG.VN\\Desktop\\STUDY\\MigrationData\\MigrationData.PostgreSql\\MigrationData.PostgreSql.csproj"
             }

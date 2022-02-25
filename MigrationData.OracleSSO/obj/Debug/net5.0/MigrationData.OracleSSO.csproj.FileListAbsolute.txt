@@ -1,0 +1,15 @@
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\bin\Debug\net5.0\MigrationData.OracleSSO.deps.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\bin\Debug\net5.0\MigrationData.OracleSSO.runtimeconfig.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\bin\Debug\net5.0\MigrationData.OracleSSO.runtimeconfig.dev.json
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\bin\Debug\net5.0\MigrationData.OracleSSO.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\bin\Debug\net5.0\ref\MigrationData.OracleSSO.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\bin\Debug\net5.0\MigrationData.OracleSSO.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\obj\Debug\net5.0\MigrationData.OracleSSO.csproj.AssemblyReference.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\obj\Debug\net5.0\MigrationData.OracleSSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\obj\Debug\net5.0\MigrationData.OracleSSO.AssemblyInfoInputs.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\obj\Debug\net5.0\MigrationData.OracleSSO.AssemblyInfo.cs
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\obj\Debug\net5.0\MigrationData.OracleSSO.csproj.CoreCompileInputs.cache
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\obj\Debug\net5.0\MigrationData.OracleSSO.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\obj\Debug\net5.0\ref\MigrationData.OracleSSO.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\obj\Debug\net5.0\MigrationData.OracleSSO.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.OracleSSO\obj\Debug\net5.0\MigrationData.OracleSSO.genruntimeconfig.cache

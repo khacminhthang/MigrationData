@@ -11,6 +11,8 @@
           "Microsoft.EntityFrameworkCore": "5.0.14",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.14",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.14",
+          "MigrationData.Oracle": "1.0.0",
+          "MigrationData.OracleSSO": "1.0.0",
           "MigrationData.PostgreSql": "1.0.0",
           "Newtonsoft.Json": "13.0.1",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "5.0.10",
@@ -575,6 +577,30 @@
           }
         }
       },
+      "MigrationData.Oracle/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.14",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.14",
+          "Newtonsoft.Json": "13.0.1",
+          "Oracle.EntityFrameworkCore": "5.21.5",
+          "System.Data.SqlClient": "4.8.3"
+        },
+        "runtime": {
+          "MigrationData.Oracle.dll": {}
+        }
+      },
+      "MigrationData.OracleSSO/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.14",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.14",
+          "Newtonsoft.Json": "13.0.1",
+          "Oracle.EntityFrameworkCore": "5.21.5",
+          "System.Data.SqlClient": "4.8.3"
+        },
+        "runtime": {
+          "MigrationData.OracleSSO.dll": {}
+        }
+      },
       "MigrationData.PostgreSql/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.14",
@@ -946,6 +972,16 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "MigrationData.Oracle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MigrationData.OracleSSO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "MigrationData.PostgreSql/1.0.0": {
       "type": "project",

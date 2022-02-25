@@ -69,3 +69,7 @@ C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Application\obj\D
 C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Application\obj\Debug\net5.0\MigrationData.Application.genruntimeconfig.cache
 C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Application\bin\Debug\net5.0\MigrationData.PostgreSql.dll
 C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Application\bin\Debug\net5.0\MigrationData.PostgreSql.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Application\bin\Debug\net5.0\MigrationData.Oracle.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Application\bin\Debug\net5.0\MigrationData.Oracle.pdb
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Application\bin\Debug\net5.0\MigrationData.OracleSSO.dll
+C:\Users\KHOIDONG.VN\Desktop\STUDY\MigrationData\MigrationData.Application\bin\Debug\net5.0\MigrationData.OracleSSO.pdb

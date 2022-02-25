@@ -20,6 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MigrationData.OracleSSO\MigrationData.OracleSSO.csproj" />
+    <ProjectReference Include="..\MigrationData.Oracle\MigrationData.Oracle.csproj" />
     <ProjectReference Include="..\MigrationData.PostgreSql\MigrationData.PostgreSql.csproj" />
   </ItemGroup>
 
